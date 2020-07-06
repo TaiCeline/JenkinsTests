@@ -10,13 +10,13 @@ pipeline {
          
         stage('Test'){
             steps{
-                sh "cd features && cucumber -x -f json -o data.json"
+                sh "cd features"
             }
         }
          
         stage('Import results to Xray') {
             steps {
-                step([$class: 'XrayImportBuilder', endpointName: '/cucumber', importFilePath: 'features/data.json', serverInstance: '4ec75a0e-3ea4-4576-a0d6-fdbcd1c1fbb2'])
+                step([$class: 'XrayImportBuilder', endpointName: '/cucumber', importFilePath: 'cucumber_xray_tests/data.json', serverInstance: '4ec75a0e-3ea4-4576-a0d6-fdbcd1c1fbb2'])
             }
         }
     }

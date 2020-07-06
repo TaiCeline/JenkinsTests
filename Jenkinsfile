@@ -10,7 +10,7 @@ pipeline {
          
         stage('Test'){
             steps{
-                sh "cd features"
+                sh "cd /features"
             }
         }
          

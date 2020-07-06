@@ -8,12 +8,6 @@ pipeline {
             }
         }
          
-        stage('Test'){
-            steps{
-                
-            }
-        }
-         
         stage('Import results to Xray') {
             steps {
                 step([$class: 'XrayImportBuilder', endpointName: '/cucumber', importFilePath: 'cucumber_xray_tests/data.json', serverInstance: '4ec75a0e-3ea4-4576-a0d6-fdbcd1c1fbb2'])

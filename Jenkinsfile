@@ -8,9 +8,9 @@ pipeline {
             }
         }
          
-        stage('Test'){
+        stage('Test echo'){
             steps{
-                sh "cd features && cucumber -x -f json -o data.json"
+				echo "GOGOGO !"
             }
         }
          

@@ -1,0 +1,16 @@
+D:\Projects\JenkinsTestsProject\JenkinsTestsProject\JenkinsTestsProject\bin\Debug\JenkinsTestsProject.dll
+D:\Projects\JenkinsTestsProject\JenkinsTestsProject\JenkinsTestsProject\bin\Debug\JenkinsTestsProject.pdb
+D:\Projects\JenkinsTestsProject\JenkinsTestsProject\JenkinsTestsProject\bin\Debug\nunit.framework.dll
+D:\Projects\JenkinsTestsProject\JenkinsTestsProject\JenkinsTestsProject\bin\Debug\Xamarin.UITest.dll
+D:\Projects\JenkinsTestsProject\JenkinsTestsProject\JenkinsTestsProject\obj\Debug\JenkinsTestsProject.csprojAssemblyReference.cache
+D:\Projects\JenkinsTestsProject\JenkinsTestsProject\JenkinsTestsProject\obj\Debug\JenkinsTestsProject.csproj.CoreCompileInputs.cache
+D:\Projects\JenkinsTestsProject\JenkinsTestsProject\JenkinsTestsProject\obj\Debug\JenkinsTestsProject.csproj.CopyComplete
+D:\Projects\JenkinsTestsProject\JenkinsTestsProject\JenkinsTestsProject\obj\Debug\JenkinsTestsProject.dll
+D:\Projects\JenkinsTestsProject\JenkinsTestsProject\JenkinsTestsProject\obj\Debug\JenkinsTestsProject.pdb
+D:\Projects\JenkinsTestsProject\JenkinsTestsProject\JenkinsTestsProject\bin\Debug\MarkdownSharp.dll
+D:\Projects\JenkinsTestsProject\JenkinsTestsProject\JenkinsTestsProject\bin\Debug\MarkdownSharp.pdb
+D:\Projects\JenkinsTestsProject\JenkinsTestsProject\JenkinsTestsProject\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\JenkinsTestsProject\JenkinsTestsProject\JenkinsTestsProject\bin\Debug\TechTalk.SpecFlow.dll
+D:\Projects\JenkinsTestsProject\JenkinsTestsProject\JenkinsTestsProject\bin\Debug\SpecResults.dll
+D:\Projects\JenkinsTestsProject\JenkinsTestsProject\JenkinsTestsProject\bin\Debug\SpecResults.Json.dll
+D:\Projects\JenkinsTestsProject\JenkinsTestsProject\JenkinsTestsProject\bin\Debug\SpecResults.Xml.dll

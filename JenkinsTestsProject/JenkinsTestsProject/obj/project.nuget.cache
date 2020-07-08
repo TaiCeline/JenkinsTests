@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "d5V52mRMc/HOp6ilPEOwdZ3p0Y9AeJ0HhEWBnwrapFlgiwKdwsirnWJPfnFgbjY5kjN6MIvI6HAi0qd9/fi1Mg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\JenkinsTestsProject\\JenkinsTestsProject\\JenkinsTestsProject\\JenkinsTestsProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\who\\.nuget\\packages\\markdownsharp\\1.13.0\\markdownsharp.1.13.0.nupkg.sha512",
+    "C:\\Users\\who\\.nuget\\packages\\newtonsoft.json\\6.0.3\\newtonsoft.json.6.0.3.nupkg.sha512",
+    "C:\\Users\\who\\.nuget\\packages\\nunit\\2.6.4\\nunit.2.6.4.nupkg.sha512",
+    "C:\\Users\\who\\.nuget\\packages\\nunit.extension.nunitv2resultwriter\\3.6.0\\nunit.extension.nunitv2resultwriter.3.6.0.nupkg.sha512",
+    "C:\\Users\\who\\.nuget\\packages\\specflow\\1.9.0\\specflow.1.9.0.nupkg.sha512",
+    "C:\\Users\\who\\.nuget\\packages\\specresults\\0.1.0.7\\specresults.0.1.0.7.nupkg.sha512",
+    "C:\\Users\\who\\.nuget\\packages\\specresults.json\\0.1.0.7\\specresults.json.0.1.0.7.nupkg.sha512",
+    "C:\\Users\\who\\.nuget\\packages\\specresults.xml\\0.1.0.7\\specresults.xml.0.1.0.7.nupkg.sha512",
+    "C:\\Users\\who\\.nuget\\packages\\xamarin.uitest\\2.2.4\\xamarin.uitest.2.2.4.nupkg.sha512"
+  ],
+  "logs": []
+}

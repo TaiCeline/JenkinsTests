@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\JenkinsTestsProject\\JenkinsTestsProject\\JenkinsTestsProject\\JenkinsTestsProject.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\JenkinsTestsProject\\JenkinsTestsProject\\JenkinsTestsProject\\JenkinsTestsProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\JenkinsTestsProject\\JenkinsTestsProject\\JenkinsTestsProject\\JenkinsTestsProject.csproj",
+        "projectName": "JenkinsTestsProject",
+        "projectPath": "D:\\Projects\\JenkinsTestsProject\\JenkinsTestsProject\\JenkinsTestsProject\\JenkinsTestsProject.csproj",
+        "packagesPath": "C:\\Users\\who\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\JenkinsTestsProject\\JenkinsTestsProject\\JenkinsTestsProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\who\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net471"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net471": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net471": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[2.6.4, )"
+            },
+            "NUnit.Extension.NUnitV2ResultWriter": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "SpecResults.Json": {
+              "target": "Package",
+              "version": "[0.1.0.7, )"
+            },
+            "SpecResults.Xml": {
+              "target": "Package",
+              "version": "[0.1.0.7, )"
+            },
+            "Xamarin.UITest": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
